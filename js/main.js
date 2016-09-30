@@ -17,11 +17,4 @@ case "resta":
     result = num1 + " menos "+ num2 + " igual " + num1 - num2 + ".";
 break;
 
-case "Division":
-    result = num1 + " Dividido por "+ num2 + " igual " + num1 * num2 + ".";
-break;
-
-case "Suma":
-    result = num1 + " suma "+ num2 + " igual " + num1 * num2 + ".";
-break;
 }
