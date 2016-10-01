@@ -19,6 +19,15 @@ case "-":
     result = +num1 - +num2;
 break;
 
+//Codigo de magda
+case "/":
+    result =  num1 / num2 ;
+break;
+
+case "+":
+    result = parseInt(num1) + parseInt(num2) ;
+break;
+
 }
 
 console.log("Result: " + result);
